@@ -1,4 +1,3 @@
-package level_1;
 import java.util.Scanner;
 
 public class Task1_TemperatureConverter {
